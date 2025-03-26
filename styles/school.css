@@ -13,7 +13,7 @@
   .display-flex{
     display: flex;
   }
-
+  
   /* dark 02 */
 
   .text-blue{
@@ -78,8 +78,15 @@
 
   .banner-img{
     width: 100%;
+
      
   }
+
+  .baby-display-flex{
+  display: flex;
+  
+  }
+
 
   /* responsive media query */
   @media screen and (max-width: 576px) {
